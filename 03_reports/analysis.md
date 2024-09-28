@@ -5,10 +5,18 @@
 ## 1. Overview
 In this analysis, the provided dataset was examined to uncover key insights that could help drive revenue growth for the taxi organization. Key variables like `Total Amount`, `Fare Amount`, `Trip Distance`, and `Tip Amount` were thoroughly explored. The dataset was clean and well-structured, which facilitated smooth exploratory data analysis (EDA) and data visualization efforts.
 
+![TripPatters_DriverPerfSummary](/04_visuals/TripPatters_DriverPerfSummary.png)
+
 ### Key Takeaways:
-- **Revenue** is mostly linearly correlated with trip distance. 
-- **Distance** emerged as the most important driver for increasing fare amounts.
+- **Revenue** is mostly linearly correlated with `trip distance`. 
+![Correlation Matrix](/04_visuals/Correlation_Matrix.png)
+
 - **Traffic conditions** play a significant role in revenue generation, with moderate traffic contributing the most revenue.
+<img src="/04_visuals/Traffic_vs_Revenue.png" alt="Traffic vs Revenue" style="max-width: 500px; height: auto;">
+
+
+![Traffic vs Revenue](/04_visuals/Traffic_vs_Revenue.png)
+
 - Revenue is slightly higher on specific weekdays, but a linear correlation between the day of the week and revenue was minimal.
 - **Drop-off Time Analysis:** 19 out of 1000 trips had a drop-off date extending into the next day, indicating that nighttime travel demand is low.
 
