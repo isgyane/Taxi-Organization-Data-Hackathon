@@ -1,5 +1,8 @@
 # Taxi Organization Revenue Analysis
 
+
+[Dashboard Overview](/04_visuals\PBIDesktop_Taxi.gif)
+
 ## Overview
 This project explores trip data from a taxi organization to help drive revenue growth. By analyzing key metrics like fare amounts, trip distances, and traffic conditions, I aim to uncover insights that could optimize the taxi company’s operations and increase profitability.
 
