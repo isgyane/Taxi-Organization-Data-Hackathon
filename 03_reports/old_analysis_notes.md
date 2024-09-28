@@ -41,7 +41,7 @@ Since correlation only captures linear relationships, future work could explore 
 3. Pickup Zones: Five pickup zones appear to generate more revenue (either more trips or people from those locations traveling further).
 4. Trip Duration: More trips were recorded between 45 to 60 minutes, followed by 15 to 30 minutes. The average trip duration was 32 minutes.
 5. Driver Performance: Some drivers generated more revenue by completing more trips; however, some drivers had higher revenue per trip despite having fewer trips. It is important to check route optimization for those making more trips with lesser revenue per trip.
-6. Traffic Demand Patterns: Demand for cars is highest on Thursdays when most trips are for leisure, followed by Tuesdays and Wednesdays when trips are primarily for errands.
+6. Traffic Demand Patterns: Demand for cars is highest on Thursdays when most trips are for leisure, followed by Tuesdays and Wednesdays when trips are primarily for errands. 
 
 
 
