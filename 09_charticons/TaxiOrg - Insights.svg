@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1280px" height="720px" viewBox="0 0 1280 720" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M1280 0L1280 0L1280 720L0 720L0 0L1280 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="TaxiOrg - Insights">
+    <path d="M1280 0L1280 0L1280 720L0 720L0 0L1280 0Z" id="TaxiOrg---Insights" fill="none" stroke="none" />
+    <g id="Left-Elements" transform="translate(1 0)" clip-path="url(#clip_1)">
+      <path d="M0 0L70 0L70 720L0 720L0 0Z" id="Left-Green" fill="#000000" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
